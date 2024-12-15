@@ -1,0 +1,14 @@
+fastapi==0.98.0
+uvicorn==0.22.0
+pydantic==1.10.9
+selenium==4.14.0
+webdriver-manager==3.8.6
+undetected-chromedriver
+playwright==1.37.0
+chromedriver-autoinstaller==0.4.0
+cloudscraper==1.2.68
+google-cloud-storage
+google-cloud-bigquery
+google-generativeai
+pillow==10.0.1
+gunicorn
